@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.site-workflow/
+node_modules/
+*.tar
+*.tar.gz
